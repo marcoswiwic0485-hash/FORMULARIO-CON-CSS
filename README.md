@@ -15,7 +15,7 @@ Este es un formulario de contacto con estética **Dark Mode / Cyberpunk**, dise�
 - `README.md`: Esta guía que estás leyendo.
 
 ## ✍️ Autor
-Hecho por un estudiante que prefiere el **Dark Mode** porque el fondo blanco le quema las córneas (no me agradescan). 😎
+Hecho por Marcos Batista, un estudiante que prefiere el **Dark Mode** porque el fondo blanco le quema las córneas (no me agradescan). 😎
 
 ---
 _Si le gusta este diseño, dale un 10 al repo para pasar el RA😔._
